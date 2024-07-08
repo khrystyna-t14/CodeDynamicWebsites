@@ -62,6 +62,7 @@
 			<hr>
 			
 			<h2>Final Example</h2>
+			
 			<p>Make sure to view the source code in your editor!</p>
 			
 			<div class="sandbox">
@@ -75,7 +76,7 @@
 				<h3><?php echo $gentlemen[2]["first_name"]; ?> from <?php echo $gentlemen[2]["country"]; ?></h3>
 				<p><strong><?php echo $gentlemen[2]["first_name"]; ?></strong> might seem too young for a 'stache because he is a <strong><?php echo $age_group[0]; ?></strong>. But he proudly displays his <strong><?php echo $salvador_dali[name]; ?></strong> at school! Although, it's a little hard to see because it's light <strong><?php echo $salvador_dali[colour]; ?></strong>.</p>
 				
-			</div><!-- end sandbox -->
+			</div> <!-- end sandbox -->
 			
 			<a href="practice.php" class="button">Check out your example</a>
 			
